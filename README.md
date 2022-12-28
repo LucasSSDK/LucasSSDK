@@ -6,7 +6,7 @@
   <a href="https://github.com/LucasSSDK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSSDK&layout=compact&langs_count=7&theme=dracula"/>
     
- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LucasSSDK&show_icons=true&theme=gruvbox#gh-gruvbox-mode-only)]
+(https://github-readme-stats.vercel.app/api?username=LucasSSDK&show_icons=true&theme=radical#gh-radical-mode-only)]
   
   ### Social Networks:
 
